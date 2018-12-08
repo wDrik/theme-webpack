@@ -1,3 +1,7 @@
+//--> Styles
+import '../sass/main.scss';
+import '../sass/home.scss';
+
 import axios from 'axios';
 
 class Api {
